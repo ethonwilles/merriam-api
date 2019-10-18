@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  form {
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    input {
+      border: 3px solid lightblue;
+    }
+  }
+  .definitions {
+    h3 {
+      width: 150px;
+      text-align: left;
+    }
+    p {
+    }
+  }
+}
